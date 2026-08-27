@@ -7,6 +7,7 @@ The goal of this project is to explore our retail sales data to answer three mai
 * Do more expensive products actually result in higher profit margins?
 * Does the company rely mostly on everyday shoppers, or a few big VIP spenders?
 * Which store regions and product categories are bringing in the most revenue?
+* Examine how sales fluctuate monthly/quarterly/yearly.
 
 By answering these questions, this project will help the company make smarter decisions about how to price products and how to treat our most valuable customers.
 
@@ -27,6 +28,7 @@ This project analyzes a transactional retail dataset featuring key metrics such 
 
 ## 💡 Top Business Insights
 
+*   **The Q4 Holiday Reliance:** The business is heavily seasonal. Profits skyrocket by roughly 300% during November and December, meaning the company's annual success relies almost entirely on execution during the 8-week holiday shopping window.
 *   **The "Dual-Economy" Customer Base:** 
     Our analysis reveals that the company operates two distinct types of businesses simultaneously:
     *   **The Volume Engine:** The median transaction is exactly **$500**, with the vast majority of all everyday orders falling tightly between **$250 and $1,000**. This provides predictable, steady cash flow.
@@ -42,6 +44,7 @@ This project analyzes a transactional retail dataset featuring key metrics such 
 2.  **Fix Profit Margins on Expensive Items:** Investigate why higher-priced products (specifically in the Electronics category) aren't bringing in proportional profit. Look for ways to lower their manufacturing, acquisition, or shipping costs to improve margins.
 3.  **Boost High-Margin Segments:** Shift more marketing budget toward the Accessories category and the South region, which are currently generating the best return on investment (margins).
 4.  **Target Underperforming Areas:** Initiate targeted marketing campaigns in low-revenue Southern cities (e.g., Virginia Beach, Baton Rouge) to increase sales volume where margins are already strong. Address operational inefficiencies in Eastern cities (e.g., Burlington, Wilmington) to improve their lower profit margins.
+5.  **Recommendation:** Inventory, server capacity, and marketing budgets must be aggressively scaled up starting in October to prepare for this make-or-break period.
 
 ## 🛠️ Technical Stack
 *   **Language:** Python
