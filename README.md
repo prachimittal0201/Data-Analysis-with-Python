@@ -16,7 +16,6 @@ A transactional retail dataset featuring key metrics such as Revenue, Profit, Un
 ## 💡 Key Business Insights
 
 ### The "Dual-Economy" Customer Base
-![09_Transaction Boxplot](images/transaction_boxplot.png)
 
 Our analysis reveals that the company operates two distinct types of businesses simultaneously:
 * **The Volume Engine:** The median transaction is exactly **$500**, with the vast majority of all everyday orders falling tightly between **$250 and $1,000**. This provides predictable, steady cash flow.
@@ -35,12 +34,5 @@ Our analysis reveals that the company operates two distinct types of businesses 
 
 ## 📁 Repository Structure
 ```text
-Retail_Analysis_Project/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── notebooks/
-│   └── retail_analysis.ipynb
-└── images/
-    └── 09_transaction_boxplot.png
+
 ```
